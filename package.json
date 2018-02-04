@@ -1,5 +1,5 @@
 {
-  "name": "reactChatBbot",
+  "name": "chat-bot-react",
   "version": "1.0.2",
   "description": " a simple chat bot ",
   "main": "server.js",
