@@ -1,6 +1,6 @@
 {
-  "name": "react_book_express",
-  "version": "0.1.0",
+  "name": "react_chat_bot",
+  "version": "1.0.0",
   "description": " a simple chat bot ",
   "main": "server.js",
   "keywords": [
