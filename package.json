@@ -36,7 +36,7 @@
     "open-browser-webpack-plugin": "0.0.5",
     "prop-types": "^15.5.10",
     "react": "^16.1.1",
-    "react-bootstrap": "^0.31.5",
+    "react-bootstrap": "^1.4.0",
     "react-chat-elements": "^0.8.1",
     "react-dom": "^16.1.1",
     "react-infinite-scroll-component": "^2.4.0",
