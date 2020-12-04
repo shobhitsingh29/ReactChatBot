@@ -37,7 +37,7 @@
     "prop-types": "^15.5.10",
     "react": "^16.1.1",
     "react-bootstrap": "^0.31.5",
-    "react-chat-elements": "^0.8.1",
+    "react-chat-elements": "^10.13.0",
     "react-dom": "^16.1.1",
     "react-infinite-scroll-component": "^2.4.0",
     "react-redux": "^5.0.6",
